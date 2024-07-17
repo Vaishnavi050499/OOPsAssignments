@@ -38,6 +38,7 @@ public class OverloadMain {
 				houseAllowance = sc.nextDouble();
 			}
 
+			
 			sc.nextLine();
 			
 			System.out.println("Employee details with bonus");
